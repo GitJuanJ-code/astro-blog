@@ -1,23 +1,41 @@
 ---
-title: Bloom Box
-publishDate: 2019-12-01 00:00:00
+title: ¿Qué es Gamificación?
+publishDate: 2023-10-19 01:10:00
 img: /assets/stock-2.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Breve definicion sobre gamificación.
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - Aprendizaje
+  - Motivación
+  - Engagement
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+La gamificación es una tecnica que tiene el potencial de mejorar el aprendizaje de los estudiantes en una variedad de contextos. En el contexto de la enseñanza de tecnología e informática, la gamificación podria utilizarse para hacer que el aprendizaje sea más atractivo, motivador y participativo. Esta utiliza elementos de juegos, como puntos, recompensas y desafios, para aumentar el compromiso de los usuarios. 
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+La gamificacion puede servir como recurso para mejora el aprendizaje de una variedad de maneras. Por ejemplo:
+<b><ul>
+<li>Mejorar la retención de conocmientos</li>
+<li>Fomentar el aprendizaje activo</li>
+<li>Promover el trabajo en equipo</li>
+</ul></b>
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Sin embargo, es importante utilizarla de manera efectiva para obtener los mejores resultados. Es importante elegir los elementos de juego adecuados para el objetivo de aprendizaje y asegurarse de que los estudiantes los encuentren atractivos y motivadores.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Actualmente, la gamificación está teniendo un impacto significativo en una variedad de campos, incluyendo la educación, el marketing, el desarrollo profesional y el entretenimiento.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+
+<table border="10">
+  <tr>
+    <th>Contexto</th>
+    <th>Contexto</th>
+  </tr>
+  <tr>
+    <td>En marketing, la gamificación se está utilizando para aumentar la participación de los clientes y generar leads.</td>
+    <td>En desarrollo profesional, la gamificación se está utilizando para mejorar el aprendizaje y el desarrollo de los empleados.</td>
+  </tr>
+  <tr>
+    <td>En entretenimiento, la gamificación se está utilizando para crear experiencias de juego más atractivas y envolventes.</td>
+    <td>En educación, la gamificación se está utilizando para mejorar el aprendizaje de los estudiantes en una variedad de materias, incluyendo matemáticas, ciencias, idiomas y humanidades.</td>
+  </tr>
+</table>
